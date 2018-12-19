@@ -8,3 +8,21 @@ img {
 .gameContent {
     margin-left: 200px;
 }
+#meme {
+    width: 400px;
+    height: 300px;
+}
+#texties {
+    font-family: 'Charm', cursive;
+    font-size: 30px;
+}
+#sexties {
+    font-family: 'ZCOOL KuaiLe';
+    font-size: 35px;
+}
+#mello {
+    float: left;
+}
+#mozz {
+    float: right;
+}
