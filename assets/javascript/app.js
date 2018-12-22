@@ -8,7 +8,7 @@ var questionCounter = 0;
 var Timer;
 $(document).ready(function () {
     function screenStart() {
-        startScreen = "<p class='text-center main-button-container'><a class='btn start-button' href='#' role='button'><img src='assets/images/HART.jpg'>Click heart to start!</a></p>";
+        startScreen = "<p class='text-center main-button-container'><a class='btn start-button' href='#' role='button'><img src='assets/images/harrt.png'>Click heart to start!</a></p>";
         $(".gameContent").html(startScreen);
     }
     screenStart();
